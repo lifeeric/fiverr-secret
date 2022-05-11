@@ -6,7 +6,12 @@ interface Props {
 }
 
 const Options: React.FC<Props> = ({ title }: Props) => {
-  return <div className="OptionsContainer">{title} Page</div>;
+  console.log('[option]');
+  return <div className="OptionsContainer">{title} xxPage</div>;
 };
+
+chrome.storage.sync.get('color', ({ color }) => {
+  document.body.style.backgroundColor = color;
+});
 
 export default Options;

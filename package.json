@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "4.3.5",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "Fiverr",
+  "version": "1.0.0",
+  "description": "Find most interesting things on fiverr which enhance productivity",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/lifeeric/fiverr-secret"
   },
   "scripts": {
     "build": "node utils/build.js",
