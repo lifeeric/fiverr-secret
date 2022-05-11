@@ -1,0 +1,1 @@
+console.log("This is the background page."),console.log("Put the background scripts here."),chrome.action.onClicked.addListener((e=>{chrome.scripting.executeScript({target:{tabId:e.id},files:["contentScript.bundle.js"]})}));

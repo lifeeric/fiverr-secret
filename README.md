@@ -2,7 +2,7 @@
 
 Find most interesting things on fiverr which enhance productivity.
 
-first of all you need to install the chrome extension as "Load unpacked":
+first of all you need to install the fiverr-secret directory to extension as "Load unpacked":
 
 ![image](./installation.gif)
 
