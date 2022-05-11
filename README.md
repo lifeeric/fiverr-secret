@@ -1,6 +1,6 @@
 # How to install
 
-Find most interesting things on fiverr which enhance productivity.
+Find the most interesting things on fiverr which enhance productivity.
 
 first of all you need to install the fiverr-secret directory to extension as "Load unpacked":
 
